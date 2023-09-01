@@ -1,4 +1,4 @@
-<img width="1600" height="500" src="https://raw.githubusercontent.com/Minhajulcse/pattern_solve_with_c/main/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597%20(1).gif">
+<img width="1500" height="400" src="https://raw.githubusercontent.com/Minhajulcse/pattern_solve_with_c/main/103246784-b17ec600-4932-11eb-94cb-053b1b2e4597%20(1).gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Minhajul+Islam!;" />
