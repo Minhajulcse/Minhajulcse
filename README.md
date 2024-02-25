@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Indie game**
 
 - 📫 How to reach me **minhajul.cse.diu@gmail.com**
 
