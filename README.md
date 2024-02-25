@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **minhajul.cse.diu@gmail.com**
 
-- ⚡ Fun fact **I spend 20 hours a week for learning new things.**
+- ⚡ Fun fact **I spend 8 hours a week for learning new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
